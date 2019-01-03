@@ -21,6 +21,7 @@ Usage
     - git init
 * Do a search and replace of "MyNamespace" to whatever namespace you want to use.
 * Rename YourClass.php and YourClassTest.php to some name that makes sense for you.
+* Update this README.
 * Add all files to the new repo
     - git add . && git commit -m'initial'
 * Push the repo to a new remote repo if you want.
