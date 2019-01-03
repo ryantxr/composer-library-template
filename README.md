@@ -11,5 +11,16 @@ Features
 * Comprehensive Guides and tutorial
 * Easy to use to any framework or even a plain php file
 
+Usage
+-----
 
-I encourage that you put more information on this readme file instead of leaving it as is. See [How to make a README file](http://www.darwinbiler.com/designing-and-making-the-readme-file-for-your-github-repository/) for more info.
+* Clone the repo.
+* Disconnect it from the remote GIT repo
+    - rm -rf .git
+* Initialize a new GIT repo
+    - git init
+* Do a search and replace of "MyNamespace" to whatever namespace you want to use.
+* Rename YourClass.php and YourClassTest.php to some name that makes sense for you.
+* Add all files to the new repo
+    - git add . && git commit -m'initial'
+* Push the repo to a new remote repo if you want.
