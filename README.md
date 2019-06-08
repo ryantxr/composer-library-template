@@ -20,6 +20,7 @@ Usage
 * Initialize a new GIT repo
     - git init
 * Do a search and replace of "MyNamespace" to whatever namespace you want to use.
+* Update the namespace and info in composer.json
 * Rename YourClass.php and YourClassTest.php to some name that makes sense for you.
 * Update this README.
 * Add all files to the new repo
